@@ -1,4 +1,4 @@
-# tom-krepp-personal-site
-My Personal Site
+# cody-krepp-personal-site
+Cody Krepp's Personal Site
 
-https://tomkrepp.com/
+https://codykrepp.com/
